@@ -14,7 +14,7 @@ Required Packages </br>
 Download dataset <a href="https://drive.google.com/file/d/1YGxtoxXviIyL2iHxRyhlxS4y0EXWAULF/view?usp=sharing">here</a>. This data set consists of 16,000 images of apparels including some outliers.
   
 # Creation of Embeddings
-<b>efficient-net.ipynb</b> has the required code to generate embeddings from images. Generate required embeddings from the dataset which gives a .npy file with all embedings. Some pretrained embedings can be found <a href="">here</a>
+<b>efficient-net.ipynb</b> has the required code to generate embeddings from images. Generate required embeddings from the dataset which gives a .npy file with all embedings. Some pretrained embedings can be found <a href="">here</a>.
 
 # Training and Testing
 Use the <b>recommender.ipynb</b> to train and test the embeddings data.
