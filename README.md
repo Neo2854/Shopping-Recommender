@@ -10,6 +10,9 @@ Required Packages </br>
   -pillow </br>
   -warnings
   
+# Dataset
+Download dataset <a href="https://drive.google.com/file/d/1YGxtoxXviIyL2iHxRyhlxS4y0EXWAULF/view?usp=sharing">here</a>
+  
 # Creation of Embeddings
 <b>efficient-net.ipynb</b> has the required code to generate embeddings from images. Generate required embeddings from the dataset which gives a .npy file with all embedings. Some pretrained embedings can be found in https://drive.google.com/file/d/151cQx0cGmhsa_5G9MawodpYA5B-obCcx/view?usp=sharing.
 
