@@ -1,7 +1,7 @@
 # Shopping-Recommender
 
 Required Python >= 3.8 </br>
-Required Packages </br>
+Required Packages
   * pytorch </br>
   * sklearn </br>
   * tkinter </br>
