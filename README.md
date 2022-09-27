@@ -2,13 +2,13 @@
 
 Required Python >= 3.8 </br>
 Required Packages </br>
-  -pytorch </br>
-  -sklearn </br>
-  -tkinter </br>
-  -numpy </br>
-  -matplotlib </br>
-  -pillow </br>
-  -warnings
+  * pytorch </br>
+  * sklearn </br>
+  * tkinter </br>
+  * numpy </br>
+  * matplotlib </br>
+  * pillow </br>
+  * warnings
   
 # Dataset
 Download dataset <a href="https://drive.google.com/file/d/1YGxtoxXviIyL2iHxRyhlxS4y0EXWAULF/view?usp=sharing">here</a>. This data set consists of 16,000 images of apparels including some outliers.
